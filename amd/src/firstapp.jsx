@@ -1,5 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
+import React from 'local_mooreact/react';
+import ReactDOM from 'local_mooreact/react-dom';
 
 // Define your main component
 function FirstApp() {
